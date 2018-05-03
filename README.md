@@ -1,7 +1,5 @@
-# Light Bulb Psychic Game
-This repository is for homework assignment #3 for UA Coding Bootcamp.
-There were two options for this assignment. I chose to make a psychic game.
-The original due date was Saturday, August 5, 2017.
+# Simple Psychic Game
+This repository is for homework assignment #3 for KU Coding Bootcamp
 
 ## About
 This game was built with regular JavaScript.
